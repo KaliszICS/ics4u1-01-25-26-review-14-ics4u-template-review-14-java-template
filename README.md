@@ -11,4 +11,4 @@
 
   2. Create a function called _totalWordsChecker_ that takes in a string as a parameter and returns true if the if the string has less than or as many words than the maximum, false otherwise.  Use a constant called MAXIMUM that has a value of 10 for your function.
 
-  3. Create a function called _minStrings_ which takes in 3 Strings as parameters.  Output the String that comes in the earliest alphabetically (casing does not matter)
+  3. Create a function called _minString_ which takes in 3 Strings as parameters.  Output the String that comes in the earliest alphabetically (casing does not matter)
